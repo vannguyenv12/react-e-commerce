@@ -28,7 +28,7 @@ export const EmptyMessage = styled.span`
   margin: 50px auto;
 `;
 
-export const cartItems = styled.div`
+export const CartItems = styled.div`
   height: 240px;
   display: flex;
   flex-direction: column;
